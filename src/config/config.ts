@@ -11,7 +11,7 @@ export default {
     debugMode: true,
   //  allowedServers: ["1158846168957210635", "1399471603003428966"], // Example server IDs
     prefix: "!",
-    developers: ["527826654660132890"],
+    developers: ["294614958329561088"],
     database: {
         type: SupportedDatabaseTypes.MongoDB,
         url: "mongodb://localhost:27017/badge2",
