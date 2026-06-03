@@ -14,7 +14,7 @@ export default {
     developers: ["294614958329561088"],
     database: {
         type: SupportedDatabaseTypes.MongoDB,
-        url: "mongodb://localhost:27017/badge2",
+        url: "mongodb+srv://sloth:<db_password>@sloth.zelum5o.mongodb.net/?appName=sloth",
     },
 
 
